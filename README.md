@@ -21,7 +21,7 @@ require('./my-custom-nested-stack').call(@)
 nail my_default_params
 nail my_default_securitygroups
 nail my_default_iam
-nail my_default_docker-asg
+nail my_default_docker__asg
 nail do require('./my-custom-nested-stack')
 [...]
 ```
