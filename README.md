@@ -1,4 +1,4 @@
-# nayls
+# nails
 Nails to put in your [coffyn][]
 
 
@@ -9,7 +9,7 @@ require('./params').call(@)
 require('./security-groups').call(@)
 require('./iam').call(@)
 require('./asg').call(@)
-require('./my-custom-nested-stack')
+require('./my-custom-nested-stack').call(@)
 [...]
 
 ```
