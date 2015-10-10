@@ -18,10 +18,10 @@ require('./my-custom-nested-stack')
 
 ```coffee
 
-nail my-default-params
-nail my-default-security-groups
-nail my-default-iam
-nail my-default-docker-asg
+nail my_default_params
+nail my_default_securitygroups
+nail my_default_iam
+nail my_default_docker-asg
 nail do require('./my-custom-nested-stack')
 ```
 
