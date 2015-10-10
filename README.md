@@ -17,6 +17,7 @@ require('./my-custom-nested-stack').call(@)
 # Eventually: 
 
 ```coffee
+nayl = require('nayls')(@)
 nayl my_default_params
 nayl my_default_securitygroups
 nayl my_default_iam
