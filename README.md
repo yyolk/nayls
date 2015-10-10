@@ -22,7 +22,8 @@ nail my_default_params
 nail my_default_securitygroups
 nail my_default_iam
 nail my_default_docker__asg
-nail do require('./my-custom-nested-stack')
+nail do require('./my-custom-stack')
+nail do require('./my-custom-nested-stack)(@Params)
 [...]
 ```
 
