@@ -22,7 +22,7 @@ nayl my_default_securitygroups
 nayl my_default_iam
 nayl my_default_docker__asg # namespaces are infinite
 nayl my_default_docker__securitygroup__rds_ingress
-nayl myapp___docker__ingress #and can inherit
+nayl myapp___docker__ingress # and can inherit
 nayl do require('./my-custom-stack')
 nayl do require('./my-custom-nested-stack)(@Params)
 [...]
