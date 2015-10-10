@@ -1,5 +1,5 @@
 # nayls
-Nails for your [coffyn][]
+Nails to put in your [coffyn][]
 
 
 # Currently:
