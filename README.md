@@ -23,6 +23,7 @@ nail my_default_securitygroups
 nail my_default_iam
 nail my_default_docker-asg
 nail do require('./my-custom-nested-stack')
+[...]
 ```
 
 
