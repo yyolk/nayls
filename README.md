@@ -1,5 +1,5 @@
-# nails
-Nails for your .coffin
+# nayls
+Nails for your [coffyn][]
 
 
 # Currently:
@@ -24,3 +24,6 @@ nail my-default-iam
 nail my-default-docker-asg
 nail do require('./my-custom-nested-stack')
 ```
+
+
+[coffyn]: https://github.com/yyolk/coffyn
